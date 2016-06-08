@@ -27,6 +27,11 @@ class Basket
      *  - Inviqa\Challenge\Product\Book                                                  *
      *  - Inviqa\Challenge\Product\Cookie                                                *
      *  - Inviqa\Challenge\Product\Pen                                                   *
+     *                                                                                   *
+     * Individual prices are also exposed as constants:                                  *
+     *  - Cookie::PRICE                                                                  *
+     *  - Book::PRICE                                                                    *
+     *  - Pen::PRICE                                                                     *
      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
      */
     public function totalPrice()
