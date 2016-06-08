@@ -1,0 +1,12 @@
+{
+    "name": "lpanainte/devday",
+    "authors": [
+        {
+            "name": "Liviu Panainte",
+            "email": "lpanainte@inviqa.com"
+        }
+    ],
+    "require": {
+        "phpspec/phpspec": "^2.5"
+    }
+}
