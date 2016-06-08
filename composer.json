@@ -1,12 +1,15 @@
 {
-    "name": "lpanainte/devday",
-    "authors": [
-        {
-            "name": "Liviu Panainte",
-            "email": "lpanainte@inviqa.com"
-        }
-    ],
-    "require": {
-        "phpspec/phpspec": "^2.5"
+  "name": "lpanainte/devday",
+  "authors": [
+    {
+      "name": "Liviu Panainte",
+      "email": "lpanainte@inviqa.com"
     }
+  ],
+  "require-dev": {
+    "phpspec/phpspec": "^2.5"
+  },
+  "config": {
+    "bin-dir": "bin"
+  }
 }
