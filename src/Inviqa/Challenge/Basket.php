@@ -21,6 +21,8 @@ class Basket
      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
      * Inviqa June 2016 Coding Challenge                                                 *
      *                                                                                   *
+     * Calculate the total price of the basket                                           *
+     *                                                                                   *
      * 2 for 1 discount: 2 products of the same kind only cost the price of 1            *
      *                                                                                   *
      * A product can only be one of:                                                     *
